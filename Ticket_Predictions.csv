@@ -1,0 +1,6 @@
+subject,predicted_category,confidence,priority,final_route
+Payment deducted twice,Billing,44.21,Normal,Needs Human Review
+Urgent application issue,Technical,47.08,Urgent,Needs Human Review
+Leave policy question,HR,39.69,Normal,Needs Human Review
+Need office location,General,38.56,Normal,Needs Human Review
+Password reset problem,Technical,34.18,Urgent,Needs Human Review
